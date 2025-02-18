@@ -1,6 +1,8 @@
 # ReduceImageSize
 Dedicated to image size reduction methods without a loss in quality
 
+Takes advantage of how PNG compression works to reduce sizes.
+
 ### There are 3 ways to resize an image in this repo.
 
 - Flat Shading
